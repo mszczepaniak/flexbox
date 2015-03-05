@@ -15,15 +15,15 @@
 	flex-basis: 150px;
 }
 
-.item1 { background-color: #d02
+.item1 { background-color: #d02;
 	flex-grow: 1;
 }
-.item2 { background-color: #138
+.item2 { background-color: #138;
 	flex-grow: 2;
 }
-.item3 { background-color: #262
+.item3 { background-color: #262;
 	flex-grow: 1;
 }
-.item4 { background-color: orange
+.item4 { background-color: orange;
 	flex-grow: 1;
 }
