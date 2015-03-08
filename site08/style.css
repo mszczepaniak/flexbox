@@ -46,19 +46,3 @@
 .item4 h3 {
 	color: orange;
 }
-
-
-@media (max-width: 600px){
-	.item1 {
-		order: 100;
-	}
-	.item2 {
-		order: 1;
-	}
-	.item3 {
-		order: 1;
-	}
-	.item4 {
-		order: 1;
-	}
-}
